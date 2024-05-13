@@ -1,0 +1,73 @@
+body {
+  background-color: #e7d2ff;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.recipe-prompt-container {
+  margin: 30px auto 20px;
+  background: #fffde8;
+  padding: 20px 10px;
+  max-width: 600px;
+  border-radius: 15px;
+}
+
+.recipe-response-container {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  margin: 20px auto 30px;
+  background: #f7f7ef;
+  padding: 20px 10px 300px;
+  max-width: 600px;
+  border-radius: 15px;
+  font-size: 14px;
+}
+.prompt {
+  padding: 15px;
+  border: 1px solid black;
+  width: 80%;
+  font-size: 12px;
+  border-radius: 10px;
+  line-height: 20px;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.submit-button {
+  margin-left: 10px;
+  background: #e6d2ff;
+  border: 1px solid black;
+  padding: 14px 20px;
+  border-radius: 10px;
+  font-size: 15px;
+}
+h1 {
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 200;
+  text-align: center;
+  line-height: 1.5;
+}
+
+label {
+  text-align: center;
+  font-size: 18px;
+  font-family: "Rouge Script", cursive;
+  font-weight: 400;
+
+  font-style: normal;
+}
+form {
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+}
+
+footer {
+  font-family: "Rouge Script", cursive;
+  font-style: normal;
+  text-align: center;
+}
+a {
+  color: #ec51a9;
+}
